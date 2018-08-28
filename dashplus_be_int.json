@@ -1,0 +1,384 @@
+{
+    "Bedrijven": [
+        {
+            "name": "Hans Danneels",
+            "url": "http://www.byteflies.com"
+        },
+        {
+            "name": "Marija Butkovic",
+            "url": "https://www.marijabutkovic.co.uk/"
+        },
+        {
+            "name": "Clermont Trust",
+            "url": "http://www.clermonttrust.com/"
+        },
+        {
+            "name": "Tincture",
+            "url": "http://www.tincture.io"
+        },
+        {
+            "name": "Dovetail Lab",
+            "url": "http://www.dovetaillab.com"
+        },
+        {
+            "name": "InstForEntEx(IEX)",
+            "url": "http://instituteforexcellence.org"
+        },
+        {
+            "name": "EIT Health Alumni",
+            "url": "http://www.eithealth.eu/en_US/alumni"
+        },
+        {
+            "name": "Prak. Psychotherapie",
+            "url": "http://www.praktijkpsychotherapie.be"
+        },
+        {
+            "name": "mySugr",
+            "url": "http://mysugr.com"
+        },
+        {
+            "name": "Doctors 2.0 & You",
+            "url": "http://www.doctors20.com"
+        },
+        {
+            "name": "Zorg Proeftuinen Vlaanderen",
+            "url": "http://bit.ly/1RwJRJI"
+        },
+        {
+            "name": "Innovatieplein",
+            "url": "http://www.innovatieplein.nl"
+        },
+        {
+            "name": "medicine.co.uk",
+            "url": "http://www.medicine.co.uk"
+        },
+        {
+            "name": "DrSunshineNL",
+            "url": "https://drsunshine.nl/"
+        },
+        {
+            "name": "Harry Wu",
+            "url": "http://www.sim.com"
+        },
+        {
+            "name": "DoktersDialogen",
+            "url": "http://www.doktersdialogen.nl"
+        },
+        {
+            "name": "Reintention",
+            "url": "http://www.reintention.com"
+        },
+        {
+            "name": "Henri Jacobs",
+            "url": "http://www.Jacobshenri.be"
+        },
+        {
+            "name": "Sana-Life.net",
+            "url": "http://www.sana-life.net"
+        },
+        {
+            "name": "Leen Leve",
+            "url": "http://www.leve.be"
+        },
+        {
+            "name": "Sam Argillander",
+            "url": "http://www.digirockstars.com"
+        },
+        {
+            "name": "BestOffer",
+            "url": "https://shaimafrady.wixsite.com/bitcoin"
+        },
+        {
+            "name": "Cool Food Facts",
+            "url": "http://www.coolfoodfacts.nl"
+        },
+        {
+            "name": "Marie De Clerck",
+            "url": "http://mariedeclerck.be"
+        },
+        {
+            "name": "I Ondernemer",
+            "url": "http://www.iondernemer.nl"
+        },
+        {
+            "name": "Surge-on Medical",
+            "url": "http://www.surge-on.eu"
+        },
+        {
+            "name": "Werken in zorgsector",
+            "url": "http://www.dezorgsector.eu"
+        },
+        {
+            "name": "Pierre Thyssen",
+            "url": "https://www.pierrethyssen.co"
+        },
+        {
+            "name": "EINCAP",
+            "url": "http://eincap.com"
+        },
+        {
+            "name": "Dr. John Karwowski",
+            "url": "http://johnkarwowskimd.com/"
+        },
+        {
+            "name": "Fran Bambust",
+            "url": "http://perplexicorum.com"
+        },
+        {
+            "name": "nuPROTO",
+            "url": "http://shapeways.com/shops/nuproto"
+        },
+        {
+            "name": "Mickey Berlianshik",
+            "url": "http://MickeyBerlianshik.com"
+        },
+        {
+            "name": "Philippe M",
+            "url": "http://pquent.in"
+        },
+        {
+            "name": "Dr. Josh Luke, CEO, Healthcare Futurist",
+            "url": "http://www.DrJoshLuke.com"
+        },
+        {
+            "name": "Kim Van der Auwera",
+            "url": "http://projecthuis.wordpress.com"
+        },
+        {
+            "name": "TinyEYE Europe",
+            "url": "http://www.tinyeye.eu"
+        },
+        {
+            "name": "Cee Lee Reed",
+            "url": "http://bit.ly/ceeleetweets"
+        },
+        {
+            "name": "Bianca Ceccarelli",
+            "url": "http://www.happyaging.be"
+        },
+        {
+            "name": "Axel Ronse",
+            "url": "http://www.axelronse.be"
+        },
+        {
+            "name": "StartupWatching",
+            "url": "http://startupwatching.com"
+        },
+        {
+            "name": "Innolabs",
+            "url": "http://www.innolabs.io"
+        },
+        {
+            "name": "BIEI OTC",
+            "url": "http://www.premierbiomedical.com"
+        },
+        {
+            "name": "doctena",
+            "url": "http://www.doctena.com"
+        },
+        {
+            "name": "APPSMedConference",
+            "url": "https://www.qualityofpatientcare.com/"
+        },
+        {
+            "name": "Medical City Online",
+            "url": "https://medicalcity.online/"
+        },
+        {
+            "name": "Herko Coomans",
+            "url": "http://www.informatieberaadzorg.nl"
+        },
+        {
+            "name": "Bitcoin Wiser",
+            "url": "http://www.bitcoinwiser.com"
+        },
+        {
+            "name": "celina crystal",
+            "url": "http://cancerdiagnostics.conferenceseries.com"
+        },
+        {
+            "name": "BioMarketplace",
+            "url": "http://biotech-365.com/biomarketplace/"
+        },
+        {
+            "name": "Hiten Shah",
+            "url": "http://usefyi.com"
+        },
+        {
+            "name": "Inclusive Growth",
+            "url": "http://inclusivegrowth.net"
+        },
+        {
+            "name": "EIT Health",
+            "url": "http://www.eithealth.eu"
+        },
+        {
+            "name": "Emmanuel Vanbrussel",
+            "url": "http://www.tijd.be"
+        },
+        {
+            "name": "Trajectio",
+            "url": "https://www.kickstarter.com/projects/1109816630/trajectio-motion-powered-hue-and-sonos-smart-home?re"
+        },
+        {
+            "name": "BioVox",
+            "url": "http://www.BioVox.eu"
+        },
+        {
+            "name": "TrendMiner Software",
+            "url": "http://www.trendminer.com/"
+        },
+        {
+            "name": "Rockstart",
+            "url": "http://rockstart.com"
+        },
+        {
+            "name": "SHARE For Cures",
+            "url": "http://www.SHAREForCures.org"
+        },
+        {
+            "name": "virtualROI Ltd",
+            "url": "http://www.virtualroi.com"
+        },
+        {
+            "name": "PraanaGrid",
+            "url": "http://www.praanagrid.com"
+        },
+        {
+            "name": "MedTech Engine",
+            "url": "http://www.medtechengine.com"
+        },
+        {
+            "name": "Hilde Schuddinck",
+            "url": "http://WWW.bryo.be"
+        },
+        {
+            "name": "Dimitri Pirnay",
+            "url": "http://OneBonsai.com"
+        },
+        {
+            "name": "UK Datahouse",
+            "url": "http://www.ukdatahouse.com"
+        },
+        {
+            "name": "Helena Brezovjakova",
+            "url": "http://www.gianthealthevent.com"
+        },
+        {
+            "name": "Chris Mobbs",
+            "url": "http://www.innovationforgrowth.co.uk"
+        },
+        {
+            "name": "Bart Collet",
+            "url": "http://hyperadvancer.com"
+        },
+        {
+            "name": "Forever Kalei's Mom",
+            "url": "http://www.foreverkaleismom.com/"
+        },
+        {
+            "name": "HealthcareConnect",
+            "url": "http://www.healthcareconnect.in"
+        },
+        {
+            "name": "Agency Other",
+            "url": "http://www.agencyother.com"
+        },
+        {
+            "name": "Sellio",
+            "url": "http://www.sellio.com"
+        },
+        {
+            "name": "Michael Cordova",
+            "url": "http://www.21stsoft.com"
+        },
+        {
+            "name": "Leen Ide",
+            "url": "http://www.leenide.be"
+        },
+        {
+            "name": "Umio",
+            "url": "http://www.umiohealth.com"
+        },
+        {
+            "name": "Fit 4 A Change",
+            "url": "http://bchbody.life/2pTRGWB"
+        },
+        {
+            "name": "James Tattersfield",
+            "url": "http://polarinsight.com"
+        },
+        {
+            "name": "4Likes.nl",
+            "url": "http://www.4likes.nl/"
+        },
+        {
+            "name": "Nudge Unit Greece",
+            "url": "http://www.nudgeunitgreece.com"
+        },
+        {
+            "name": "Matti W\u00e4\u00e4n\u00e4nenMD  -  Hyv\u00e4 hoito auttaa",
+            "url": "http://www.etsilaakari.fi"
+        },
+        {
+            "name": "Venture Formations",
+            "url": "http://www.ventureformations.com"
+        },
+        {
+            "name": "Minds of Malady",
+            "url": "http://www.mindsofmalady.com"
+        },
+        {
+            "name": "Smart Peak Flow",
+            "url": "http://smartpeakflow.com"
+        },
+        {
+            "name": "TrustCare Management",
+            "url": "http://www.trustcare.co"
+        },
+        {
+            "name": "Lynn Webster, MD",
+            "url": "http://www.thepainfultruthbook.com"
+        },
+        {
+            "name": "Numrush",
+            "url": "http://www.numrush.nl"
+        },
+        {
+            "name": "StartUs Insights",
+            "url": "https://www.startus-insights.com"
+        },
+        {
+            "name": "PitchCrunch",
+            "url": "https://pitchcrunch.com"
+        },
+        {
+            "name": "Chino.io",
+            "url": "https://chino.io"
+        },
+        {
+            "name": "Salus Digital",
+            "url": "http://salusdigital.net/"
+        },
+        {
+            "name": "TheRightDoctors",
+            "url": "https://www.therightdoctors.com"
+        },
+        {
+            "name": "Scale-upDenmark",
+            "url": "http://scale-updenmark.com/"
+        },
+        {
+            "name": "Joeri Staessen",
+            "url": "http://www.partena-ziekenfonds.be"
+        },
+        {
+            "name": "Koen Maertens",
+            "url": "http://www.oscare.be"
+        },
+        {
+            "name": "Frank Ponsaert",
+            "url": "http://www.ponsaert.be"
+        }
+    ]
+}
