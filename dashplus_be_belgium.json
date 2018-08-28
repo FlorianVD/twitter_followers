@@ -1,212 +1,280 @@
 {
-    "Test": "Test",
     "Bedrijven": [
         {
-            "Ian Dalton": "http://flagshipmarketing.com"
+            "name": "Ian Dalton",
+            "url": "http://flagshipmarketing.com"
         },
         {
-            "Margot Cloet": "http://www.zorgneticuro.be"
+            "name": "Margot Cloet",
+            "url": "http://www.zorgneticuro.be"
         },
         {
-            "Blijf Actief": "http://www.blijfactief.be"
+            "name": "Blijf Actief",
+            "url": "http://www.blijfactief.be"
         },
         {
-            "Gretel Schrijvers": "http://www.mensura.be"
+            "name": "Gretel Schrijvers",
+            "url": "http://www.mensura.be"
         },
         {
-            "Karolien Haese": "http://www.bhct.eu"
+            "name": "Karolien Haese",
+            "url": "http://www.bhct.eu"
         },
         {
-            "Neutraal Ziekenfonds Vlaanderen": "http://www.nzvl.be"
+            "name": "Neutraal Ziekenfonds Vlaanderen",
+            "url": "http://www.nzvl.be"
         },
         {
-            "Sam Ward": "http://www.bhct.eu"
+            "name": "Sam Ward",
+            "url": "http://www.bhct.eu"
         },
         {
-            "Nicole Verbeeck": "http://www.juneaucayenne.com"
+            "name": "Nicole Verbeeck",
+            "url": "http://www.juneaucayenne.com"
         },
         {
-            "bert desmet": "http://www.onlinebuurten.be"
+            "name": "bert desmet",
+            "url": "http://www.onlinebuurten.be"
         },
         {
-            "Tom De Gendt": "http://www.degendtadvocaten.be"
+            "name": "Tom De Gendt",
+            "url": "http://www.degendtadvocaten.be"
         },
         {
-            "Artsenkrant": "http://www.artsenkrant.com"
+            "name": "Artsenkrant",
+            "url": "http://www.artsenkrant.com"
         },
         {
-            "epihunter": "http://www.epihunter.com"
+            "name": "epihunter",
+            "url": "http://www.epihunter.com"
         },
         {
-            "Inge Schepers": "http://www.triamant.be"
+            "name": "Inge Schepers",
+            "url": "http://www.triamant.be"
         },
         {
-            "Margot": "https://about.me/vanfleteren"
+            "name": "Margot",
+            "url": "https://about.me/vanfleteren"
         },
         {
-            "Health House": "http://www.health-house.be"
+            "name": "Health House",
+            "url": "http://www.health-house.be"
         },
         {
-            "Kevin Mollet": "http://www.kevinmollet.be"
+            "name": "Kevin Mollet",
+            "url": "http://www.kevinmollet.be"
         },
         {
-            "ViViDoctor": "http://www.vividoctor.com"
+            "name": "ViViDoctor",
+            "url": "http://www.vividoctor.com"
         },
         {
-            "Vlaams Nieuws": "http://www.vlaamsnieuws.be"
+            "name": "Vlaams Nieuws",
+            "url": "http://www.vlaamsnieuws.be"
         },
         {
-            "Brabants Apothekers Forum": "https://baf.be/"
+            "name": "Brabants Apothekers Forum",
+            "url": "https://baf.be/"
         },
         {
-            "Sportana": "http://www.sportana.be"
+            "name": "Sportana",
+            "url": "http://www.sportana.be"
         },
         {
-            "Guy Serdobbel": "http://about.me/guyserdobbel"
+            "name": "Guy Serdobbel",
+            "url": "http://about.me/guyserdobbel"
         },
         {
-            "AXA Partners Belgium": "http://www.axa-assistance.be"
+            "name": "AXA Partners Belgium",
+            "url": "http://www.axa-assistance.be"
         },
         {
-            "STENT.CARE": "http://www.stent.care"
+            "name": "STENT.CARE",
+            "url": "http://www.stent.care"
         },
         {
-            "Michael VBuggenhout": "http://www.ipbuilding.com"
+            "name": "Michael VBuggenhout",
+            "url": "http://www.ipbuilding.com"
         },
         {
-            "Bagaar \ud83d\udd96\ud83c\udffc": "http://www.bagaar.be"
+            "name": "Bagaar \ud83d\udd96\ud83c\udffc",
+            "url": "http://www.bagaar.be"
         },
         {
-            "Julie Hantson": "http://www.advocatenkantoor-hantson.be"
+            "name": "Julie Hantson",
+            "url": "http://www.advocatenkantoor-hantson.be"
         },
         {
-            "Happy Aging": "http://www.happyaging.be"
+            "name": "Happy Aging",
+            "url": "http://www.happyaging.be"
         },
         {
-            "Jochen Moerman": "http://www.caldr.be"
+            "name": "Jochen Moerman",
+            "url": "http://www.caldr.be"
         },
         {
-            "Patrick Coomans": "https://B-Hive.eu"
+            "name": "Patrick Coomans",
+            "url": "https://B-Hive.eu"
         },
         {
-            "Leslie Vlerick": "http://www.healthconnect.be"
+            "name": "Leslie Vlerick",
+            "url": "http://www.healthconnect.be"
         },
         {
-            "IN4CARE": "http://www.in4care.be"
+            "name": "IN4CARE",
+            "url": "http://www.in4care.be"
         },
         {
-            "Collevio": "http://www.collevio.be"
+            "name": "Collevio",
+            "url": "http://www.collevio.be"
         },
         {
-            "Thomas VdAuwermeulen": "http://Technologium.be"
+            "name": "Thomas VdAuwermeulen",
+            "url": "http://Technologium.be"
         },
         {
-            "Kelly Verheyen": "http://www.licalab.be"
+            "name": "Kelly Verheyen",
+            "url": "http://www.licalab.be"
         },
         {
-            "Johan Goris": "http://www.Med-Q.be"
+            "name": "Johan Goris",
+            "url": "http://www.Med-Q.be"
         },
         {
-            "#BeHealth": "https://www.behealth.be"
+            "name": "#BeHealth",
+            "url": "https://www.behealth.be"
         },
         {
-            "Jo Vanwittenbergh": "http://www.nautadutilh.com"
+            "name": "Jo Vanwittenbergh",
+            "url": "http://www.nautadutilh.com"
         },
         {
-            "BAN Vlaanderen": "http://www.ban.be"
+            "name": "BAN Vlaanderen",
+            "url": "http://www.ban.be"
         },
         {
-            "B-Hive Europe": "https://b-hive.eu/"
+            "name": "B-Hive Europe",
+            "url": "https://b-hive.eu/"
         },
         {
-            "moveUP": "http://moveup.care"
+            "name": "moveUP",
+            "url": "http://moveup.care"
         },
         {
-            "Simon Dusauchoit": "https://nephroflow.com"
+            "name": "Simon Dusauchoit",
+            "url": "https://nephroflow.com"
         },
         {
-            "Le Wagon Brussels": "http://www.lewagon.org/brussels"
+            "name": "Le Wagon Brussels",
+            "url": "http://www.lewagon.org/brussels"
         },
         {
-            "Office Capital": "http://www.officecapital.be"
+            "name": "Office Capital",
+            "url": "http://www.officecapital.be"
         },
         {
-            "healthstartup": "http://www.healthstartup.eu"
+            "name": "healthstartup",
+            "url": "http://www.healthstartup.eu"
         },
         {
-            "IVIS4HEALTH": "http://ivis4health.com"
+            "name": "IVIS4HEALTH",
+            "url": "http://ivis4health.com"
         },
         {
-            "COCIR": "http://www.cocir.org"
+            "name": "COCIR",
+            "url": "http://www.cocir.org"
         },
         {
-            "Nick Boucart": "http://nebucom.be"
+            "name": "Nick Boucart",
+            "url": "http://nebucom.be"
         },
         {
-            "into.care": "http://www.into.care"
+            "name": "into.care",
+            "url": "http://www.into.care"
         },
         {
-            "Carole Absil": "http://www.agoria.be"
+            "name": "Carole Absil",
+            "url": "http://www.agoria.be"
         },
         {
-            "Departement EWI": "http://www.ewi-vlaanderen.be"
+            "name": "Departement EWI",
+            "url": "http://www.ewi-vlaanderen.be"
         },
         {
-            "Sofie Staelraeve": "http://www.dashplus.be"
+            "name": "Sofie Staelraeve",
+            "url": "http://www.dashplus.be"
         },
         {
-            "CogniStreamer": "http://www.cognistreamer.com"
+            "name": "CogniStreamer",
+            "url": "http://www.cognistreamer.com"
         },
         {
-            "Toon Vanagt": "http://www.vanagt.com"
+            "name": "Toon Vanagt",
+            "url": "http://www.vanagt.com"
         },
         {
-            "MedTechMeetup": "http://www.medtechmeetup.com"
+            "name": "MedTechMeetup",
+            "url": "http://www.medtechmeetup.com"
         },
         {
-            "Peter Verschuere": "https://www.barns.be"
+            "name": "Peter Verschuere",
+            "url": "https://www.barns.be"
         },
         {
-            "Peter Dick": "http://www.dynamick.be"
+            "name": "Peter Dick",
+            "url": "http://www.dynamick.be"
         },
         {
-            "Eric Rodriguez": "https://data.be"
+            "name": "Eric Rodriguez",
+            "url": "https://data.be"
         },
         {
-            "Kim Van Asch": "http://www.solidariteit.be"
+            "name": "Kim Van Asch",
+            "url": "http://www.solidariteit.be"
         },
         {
-            "Activ84Health": "http://www.activ84health.eu"
+            "name": "Activ84Health",
+            "url": "http://www.activ84health.eu"
         },
         {
-            "Auki": "http://auki.io"
+            "name": "Auki",
+            "url": "http://auki.io"
         },
         {
-            "KumulAid": "http://kumulaid.com"
+            "name": "KumulAid",
+            "url": "http://kumulaid.com"
         },
         {
-            "Jessa Ziekenhuis": "http://www.jessazh.be"
+            "name": "Jessa Ziekenhuis",
+            "url": "http://www.jessazh.be"
         },
         {
-            "Technologium": "http://technologium.be"
+            "name": "Technologium",
+            "url": "http://technologium.be"
         },
         {
-            "Tineke Van hooland": "http://www.abbvie.com"
+            "name": "Tineke Van hooland",
+            "url": "http://www.abbvie.com"
         },
         {
-            "Dennis van den Buijs": "http://www.wijncast.com"
+            "name": "Dennis van den Buijs",
+            "url": "http://www.wijncast.com"
         },
         {
-            "eHealth_EU": "http://ec.europa.eu/digital-single-market/eHealth"
+            "name": "eHealth_EU",
+            "url": "http://ec.europa.eu/digital-single-market/eHealth"
         },
         {
-            "Olivier De Greve": "http://www.weightwatchers.com"
+            "name": "Olivier De Greve",
+            "url": "http://www.weightwatchers.com"
         },
         {
-            "waylay.io": "http://www.waylay.io"
+            "name": "waylay.io",
+            "url": "http://www.waylay.io"
         },
         {
-            "Jeroen Klinckaert": "http://www.intelligentmotion.be"
+            "name": "Jeroen Klinckaert",
+            "url": "http://www.intelligentmotion.be"
         }
     ]
 }
